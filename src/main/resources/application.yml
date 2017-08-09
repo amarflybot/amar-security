@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: amar-service
+security:
+  user:
+    name: admin
+    password: admin
+
+

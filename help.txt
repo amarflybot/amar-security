@@ -1,0 +1,2 @@
+https://gist.github.com/adrobisch/0876ed217d8f28588d2b
+https://spring.io/guides/tutorials/spring-security-and-angular-js/
